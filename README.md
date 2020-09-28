@@ -67,7 +67,7 @@ ___
   ```
   ```PY
     def helloWorld():
-      print
+      print("Hello World!")
     helloWorld()
   ```
 <!-- Tables -->
